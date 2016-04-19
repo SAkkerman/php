@@ -1,0 +1,43 @@
+.header{
+    background-image: url('C:\Users\Sjoerdtje\Documents\Php\sjoerd-php\auto\test\header.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-color: black;
+    width: 100%;
+    height: 124px;
+    margin-bottom: 50px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.auto {
+    
+    display: inline-block;
+    height: 170px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 0px;
+    text-shadow: 1px 1px 8px #ffffff;
+}
+
+.center{
+    text-align: center;
+}
